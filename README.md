@@ -6,7 +6,7 @@ We load a dataset using Pandas library, and apply the following algorithms, and 
 This dataset is about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted.
 
 ## Machine Learning Models
-In thiss project we use 4 Machine Learning Classification Model:
+In this project we use 4 Machine Learning Classification Model:
 - KNN (K Nearest Neighbor)
 - Decision Tree
 - SVM (Support Vector Machine)
